@@ -1,7 +1,7 @@
 # Hello, World! I'm Quoc Anh
 
 🎓 IT Student University in Ho Chi Minh City<br>
-📍 Ho Chi Minh City, Vietnam 
+📍 Ho Chi Minh City, Vietnam<br>
 🎯 Seeking Internship 2027 and 2028
 
 ---
