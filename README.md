@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Quoc Anh 👋
 
-<!--
-**VoHoQuocAnh/VoHoQuocAnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student @ UTH – University of Transport Ho Chi Minh City  
+📍 Ho Chi Minh City, Vietnam  
+🎯 Seeking Internship 2026  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📊 DSA & SQL Practice
+- 🔢 Solving DSA problems with C++
+- 🗄️ Practicing SQL — Window Functions & Ranking
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vohoquocanh2024-del&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+📧 vohoquocanh2024@gmail.com
