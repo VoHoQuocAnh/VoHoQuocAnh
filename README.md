@@ -7,17 +7,17 @@
 ---
 
 ## 🛠️ Skills
-Python
-C++
-SQL
+-Python
+-C++
+-SQL
 
 ---
 
 ## 📊 DSA & SQL Practice
-Solving DSA problems with C++
-Practicing SQL
+-Solving DSA problems with C++
+-Practicing SQL
 
 ---
 
 ## 📫 Contact
- vohoquocanh2024@gmail.com
+-vohoquocanh2024@gmail.com
