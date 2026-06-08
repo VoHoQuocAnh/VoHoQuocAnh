@@ -1,9 +1,7 @@
 # Hello, World! I'm Quoc Anh
-
-🎓 IT Student University in Ho Chi Minh City<br>
-📍 Ho Chi Minh City, Vietnam<br>
-🎯 Seeking Internship 2027 and 2028
-
+🎓University
+- IT Student University in Ho Chi Minh City<br>
+- Microsoft Office Specialist-Excel 2019(975/1000)
 ---
 
 ## 🛠️ Skills
