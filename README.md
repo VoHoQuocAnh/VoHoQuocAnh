@@ -4,7 +4,7 @@
 - Microsoft Office Specialist-Excel 2019(975/1000)
 ---
 
-## 🛠️ Skills
+## 💻 Languages & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80"/>
   &nbsp;&nbsp;
