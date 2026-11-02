@@ -2,14 +2,11 @@
 🎓University
 - IT Student University in Ho Chi Minh City<br>
 ### 🏆 Certifications — Microsoft Office Specialist (MOS 365)
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/microsoft-365.png" width="55" height="55" alt="Microsoft 365" title="Microsoft 365 Certified" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/96/microsoft-word-2019.png" width="55" height="55" alt="Word 365" title="MOS Word" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/96/microsoft-excel-2019.png" width="55" height="55" alt="Excel 365" title="MOS Excel (975/1000)" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" width="55" height="55" alt="PowerPoint 365" title="MOS PowerPoint" />
+### 🏆 Certifications — Microsoft Office Specialist (MOS)
+<p align="left">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Excel_(2025%E2%80%93present).svg" width="38" height="38" align="absmiddle" alt="Excel" /> <b>Excel:</b> 975/1000 &nbsp;&nbsp;&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Word_(2025%E2%80%93present).svg" width="38" height="38" align="absmiddle" alt="Word" /> <b>Word:</b> Certified &nbsp;&nbsp;&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_PowerPoint_(2025%E2%80%93present).svg" width="38" height="38" align="absmiddle" alt="PowerPoint" /> <b>PowerPoint:</b> Certified
 </p>
 ---
 
