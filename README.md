@@ -2,11 +2,10 @@
 🎓University
 - IT Student University in Ho Chi Minh City<br>
 ### 🏆 Certifications — Microsoft Office Specialist (MOS 365)
-### 🏆 Certifications — Microsoft Office Specialist (MOS)
 <p align="left">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Excel_(2025%E2%80%93present).svg" width="38" height="38" align="absmiddle" alt="Excel" /> <b>Excel:</b> 975/1000 &nbsp;&nbsp;&nbsp;
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Word_(2025%E2%80%93present).svg" width="38" height="38" align="absmiddle" alt="Word" /> <b>Word:</b> Certified &nbsp;&nbsp;&nbsp;
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_PowerPoint_(2025%E2%80%93present).svg" width="38" height="38" align="absmiddle" alt="PowerPoint" /> <b>PowerPoint:</b> Certified
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/PowerPoint_Logo_2025.svg" width="38" height="38" align="absmiddle" alt="PowerPoint" /> <b>PowerPoint:</b> Certified
 </p>
 ---
 
