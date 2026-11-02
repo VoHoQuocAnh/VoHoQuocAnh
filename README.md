@@ -22,7 +22,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" width="55" height="55" alt="Docker Compose" />
 </p>
----
 
 
 ## 📊 DSA & SQL Practice
