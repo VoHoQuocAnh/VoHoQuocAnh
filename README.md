@@ -3,9 +3,13 @@
 - IT Student University in Ho Chi Minh City<br>
 ### 🏆 Certifications (Microsoft Office Specialist)
 <p align="left">
-  <img src="https://img.shields.io/badge/MOS_Word_2019-Certified-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MOS Word 2019" />
-  <img src="https://img.shields.io/badge/MOS_Excel_2019-975%2F1000-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MOS Excel 2019" />
-  <img src="https://img.shields.io/badge/MOS_PowerPoint_2019-Certified-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="MOS PowerPoint 2019" />
+  <!-- Huy hiệu tổng MOS 365 Associate -->
+  <img src="https://img.shields.io/badge/MOS_365_Apps-Associate-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MOS 365 Associate" />
+  
+  <!-- 3 chứng chỉ thành phần -->
+  <img src="https://img.shields.io/badge/MOS_365_Word-Certified-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MOS 365 Word" />
+  <img src="https://img.shields.io/badge/MOS_365_Excel-975%2F1000-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MOS 365 Excel" />
+  <img src="https://img.shields.io/badge/MOS_365_PowerPoint-Certified-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="MOS 365 PowerPoint" />
 </p>
 ---
 
