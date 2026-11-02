@@ -24,7 +24,7 @@
 </p>
 
 
-###🚀 Featured Projects
+### 🚀 Featured Projects
 - FIFA World Cup Data Analysis
 - Assistant AI
 - Restaurant Order Management System
