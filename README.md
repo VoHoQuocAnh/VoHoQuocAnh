@@ -13,6 +13,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80"/>
 </p>
 ---
+<!-- Cả 3 icon đặt cùng 1 hàng, tự động co giãn đẹp mắt -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,docker" />
+  </a>
+</p>
 
 ## 📊 DSA & SQL Practice
 Solving DSA problems with C++ | Practicing SQL
