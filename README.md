@@ -17,7 +17,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
 </a>
 <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/docker/compose/v2/docs/img/logo.png" alt="docker compose" width="55" height="55"/>
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,mysql,sqlite,docker" />
+</p>
 </a>
 </p>
 ---
