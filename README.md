@@ -7,7 +7,6 @@
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Excel_(2025%E2%80%93present).svg" width="38" height="38" align="absmiddle" alt="Excel" /> <b>Excel:</b> 975/1000 &nbsp;&nbsp;&nbsp;
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/PowerPoint_Logo_2025.svg" width="38" height="38" align="absmiddle" alt="PowerPoint" /> <b>PowerPoint:</b> 725/1000
 </p>
----
 
 ## 💻 Languages & Tools
 <p align="center">
