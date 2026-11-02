@@ -15,6 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="55" height="55" alt="Docker" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" width="55" height="55" alt="Docker Compose" />
 </p>
 ---
 
