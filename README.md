@@ -24,8 +24,11 @@
 </p>
 
 
-## 📊 DSA & SQL Practice
-Solving DSA problems with C++ | Practicing SQL
+###🚀 Featured Projects
+- FIFA World Cup Data Analysis
+- Assistant AI
+- Restaurant Order Management System
+- Machine Learning Projects
 
 ---
 
