@@ -30,7 +30,3 @@
 - Restaurant Order Management System
 - Machine Learning Projects
 
----
-
-## 📫 Contact
-vohoquocanh2024@gmail.com
