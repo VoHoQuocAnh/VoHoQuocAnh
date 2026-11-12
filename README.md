@@ -1,6 +1,6 @@
 # Hello, World! I'm Quoc Anh
 ### 🎓University
-- IT Student University in Ho Chi Minh City<br>
+- I'm information Technology student at a transport university in Ho Chi Minh City<br>
 ### 🏆 Certifications — Microsoft Office Specialist (MOS 365)
 <p align="left">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Word_(2025%E2%80%93present).svg" width="38" height="38" align="absmiddle" alt="Word" /> <b>Word:</b> 875/1000 &nbsp;&nbsp;&nbsp;
